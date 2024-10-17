@@ -1,0 +1,8 @@
+/student-registration
+  /uploads
+  app.js
+  config/db.js
+  controllers/userController.js
+  middleware/authMiddleware.js
+  models/userModel.js
+  routes/userRoutes.js
